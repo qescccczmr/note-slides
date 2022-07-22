@@ -7,5 +7,5 @@
 
 
 [![License](https://img.shields.io/github/license/Cfrida/note-slides?style=flat-square)](https://creativecommons.org/licenses/by-sa/4.0/)
-[![Issues](https://img.shields.io/github/issues/Cfrida/note-slides?style=flat-square)](https://github.com/The-Run-Philosophy-Organization/run/issues)
+[![Issues](https://img.shields.io/github/issues/Cfrida/note-slides?style=flat-square)](https://github.com/Cfrida/note-slides/issues)
 [![Stars](https://img.shields.io/github/stars/Cfrida/note-slides?style=flat-square)](https://star-history.com/#The-Run-Philosophy-Organization/run&Date)
