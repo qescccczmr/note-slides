@@ -12,4 +12,4 @@
 
 
 [![Build Status](https://www.travis-ci.org/Cfrida/note-slides.svg?branch=master)]
-(https://www.travis-ci.orgCfrida/note-slides)
+(https://www.travis-ci.org/Cfrida/note-slides)
