@@ -13,3 +13,5 @@
 
 [![Build Status](https://www.travis-ci.org/Cfrida/note-slides.svg?branch=master)]
 (https://www.travis-ci.org/Cfrida/note-slides)
+
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr/The-Run-Philosophy-Organization/run)
