@@ -17,5 +17,5 @@
 [![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr/The-Run-Philosophy-Organization/run)](https://github.com/Cfrida/note-slides/pulls)
 
 
-[https://img.shields.io/badge/少数派-SpencerWoo-da282a](https://t.me/RunOutForLife)
+[(https://img.shields.io/badge/少数派-SpencerWoo-da282a)](https://t.me/RunOutForLife)
 [![eee](https://img.shields.io/badge/Telegram-润学-%232CA5E0?style=flat-square&logo=telegram)](https://t.me/RunOutForLife)
