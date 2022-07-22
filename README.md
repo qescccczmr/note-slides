@@ -17,4 +17,4 @@
 [![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr/The-Run-Philosophy-Organization/run)](https://github.com/Cfrida/note-slides/pulls)
 
 
-https://img.shields.io/badge/telegeram-joinme-blue
+https://img.shields.io/badge/telegram-SpencerWoo-da282a
