@@ -21,5 +21,5 @@
 [![eee](https://img.shields.io/badge/少数派-SpencerWoo-da282a?style=flat-square&logo=appveyor)](https://t.me/RunOutForLife)
 
 [![eee](https://img.shields.io/badge/Telegram-润学-%232CA5E0?style=flat-square&logo=telegram)](https://t.me/RunOutForLife)
-[![eee](https://img.shields.io/badge/reddit-润学-%232CA5E0?style=social&logo=reddit)](https://t.me/RunOutForLife)
+[![eee](https://img.shields.io/badge/reddit-润学-%232CA5E0?style=social&logo=twitter)](https://t.me/RunOutForLife)
 [(https://img.shields.io/badge/Chat_with_@Alien__Drew--URL?style=social&logo=reddit&link=https%3A%2F%2Fwww.reddit.com%2Fchat%2Fuser_id%2Ft2_1091wg)]
