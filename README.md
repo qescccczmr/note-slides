@@ -8,4 +8,8 @@
 
 [![License](https://img.shields.io/github/license/Cfrida/note-slides?style=flat-square)](https://creativecommons.org/licenses/by-sa/4.0/)
 [![Issues](https://img.shields.io/github/issues/Cfrida/note-slides?style=flat-square)](https://github.com/Cfrida/note-slides/issues)
-[![Stars](https://img.shields.io/github/stars/Cfrida/note-slides?style=flat-square)](https://star-history.com/#The-Run-Philosophy-Organization/run&Date)
+[![Stars](https://img.shields.io/github/stars/Cfrida/note-slides?style=flat-square)](https://star-history.com/#Cfrida/note-slides&Date)
+
+
+[![Build Status](https://www.travis-ci.org/Cfrida/note-slides.svg?branch=master)]
+(https://www.travis-ci.orgCfrida/note-slides)
